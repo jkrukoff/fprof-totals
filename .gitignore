@@ -1,0 +1,13 @@
+# Erlang config and intermediate files.
+.eunit
+*.o
+*.beam
+*.plt
+.erlang.cookie
+ebin
+log
+erl_crash.dump
+logs
+# Vim temp files.
+*.swp
+*.swo
