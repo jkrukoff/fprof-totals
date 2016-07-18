@@ -13,6 +13,8 @@ logs
 deps
 elvis
 xrefr
+# Build targets.
+fproftotals
 # Vim temp files.
 *.swp
 *.swo
