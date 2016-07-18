@@ -8,6 +8,11 @@ ebin
 log
 erl_crash.dump
 logs
+# Build dependencies
+.erlang.mk
+deps
+elvis
+xrefr
 # Vim temp files.
 *.swp
 *.swo
